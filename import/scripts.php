@@ -7,3 +7,5 @@ function THEMENAME_adding_scripts() {
 	wp_enqueue_style( 'stylesheet', get_stylesheet_uri() );
 }
 add_action( 'wp_enqueue_scripts', 'THEMENAME_adding_scripts' );
+
+//TODO: Future change for automated builds planned and this will change for that.
