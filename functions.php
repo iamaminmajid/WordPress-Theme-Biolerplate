@@ -1,5 +1,7 @@
 <?php
-//Theme Functions
+/*
+ * Theme Functions
+ */
 
 //Theme Setup --------------------------------------------------------------
 if (!function_exists('THEMENAME_setup')) :
