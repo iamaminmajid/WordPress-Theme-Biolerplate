@@ -1,0 +1,27 @@
+{
+  "name": "WordPress-Theme-Biolerplate",
+  "homepage": "https://github.com/iamaminmajid/WordPress-Theme-Biolerplate",
+  "authors": [
+    "Amin Majid <https://github.com/iamaminmajid>",
+    "Fahad Murtaza <info@fahdmurtaza.com>"
+  ],
+  "description": "Jump Start WordPress theme development and do things 'The Right Way'.",
+  "main": "style.css",
+  "keywords": [
+    "wordpress",
+    "bootstrap",
+    "right",
+    "way"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
